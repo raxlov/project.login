@@ -1,0 +1,9 @@
+{
+"configs": {
+  "allow everyone": "true"
+  "whitelist": "false"
+  "blacklist": "false"
+  },
+"whitelist": {},
+"blacklist": {}
+}
