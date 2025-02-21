@@ -4,6 +4,11 @@
   "whitelist": "false"
   "blacklist": "false"
   },
-"whitelist": {},
+"whitelist": {
+  "IPv4": {},
+  "IPv6": {},
+  "latitude":{},
+  "longitude":{}
+  },
 "blacklist": {}
 }
