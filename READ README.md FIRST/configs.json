@@ -9,13 +9,15 @@
   "IPv6": [],
   "Latitude": [],
   "Longitude": [],
-  "PublicIP": []
+  "PublicIP": [],
+  "DeviceID" []
   },
 "blacklist": {
   "IPv4": [],
   "IPv6": [],
   "Latitude": [],
   "Longitude": [],
-  "PublicIP": []
+  "PublicIP": [],
+  "DeviceID": []
   }
 }
