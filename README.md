@@ -1,3 +1,3 @@
-# project.login
-going to folder "READ README.md FIRST" you confirm this
-  1. you wont open folder "secret"
+# WARNING
+### this reposity is made JUST for an project that wont be uploaded to github
+### and cuz idk how to modify it with tokens i am posting it publicly
