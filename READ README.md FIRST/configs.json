@@ -1,7 +1,7 @@
 {
 "configs": {
   "allow everyone": "true",
-  "whitelist": "false",
+  "whitelist": "true",
   "blacklist": "false"
   },
 "whitelist": {
