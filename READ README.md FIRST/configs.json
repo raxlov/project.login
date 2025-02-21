@@ -7,13 +7,15 @@
 "whitelist": {
   "IPv4": {},
   "IPv6": {},
-  "latitude":{},
-  "longitude":{}
+  "Latitude":{},
+  "Longitude":{},
+  "PublicIP":{}
   },
 "blacklist": {
   "IPv4": {},
   "IPv6": {},
-  "latitude":{},
-  "longitude":{}
+  "Latitude":{},
+  "Longitude":{},
+  "PublicIP":{}
   }
 }
