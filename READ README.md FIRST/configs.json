@@ -5,17 +5,17 @@
   "blacklist": "false"
   },
 "whitelist": {
-  "IPv4": {},
-  "IPv6": {},
-  "Latitude":{},
-  "Longitude":{},
-  "PublicIP":{}
+  "IPv4": [],
+  "IPv6": [],
+  "Latitude": [],
+  "Longitude": [],
+  "PublicIP": []
   },
 "blacklist": {
-  "IPv4": {},
-  "IPv6": {},
-  "Latitude":{},
-  "Longitude":{},
-  "PublicIP":{}
+  "IPv4": [],
+  "IPv6": [],
+  "Latitude": [],
+  "Longitude": [],
+  "PublicIP": []
   }
 }
